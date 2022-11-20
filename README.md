@@ -22,7 +22,7 @@
 + toString() : It will print the information of the employee to the screen.
 
 
-## Salary Calculator Sorting the Elements in the Series
+## Sorting the Elements in the Series
 <br> Write a Java program that sorts the elements of the array from smallest to largest. Get the size of the array and the elements of the array from the user.
 <br>
 ![image](https://user-images.githubusercontent.com/116385274/202919678-f50263f0-1f17-4185-b9a3-0f6520b158f9.png)
