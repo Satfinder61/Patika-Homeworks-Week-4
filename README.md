@@ -21,13 +21,17 @@
 + If the employee has been working for more than 19 years, a 15% raise will be made.
 + toString() : It will print the information of the employee to the screen.
 
+![image](https://user-images.githubusercontent.com/116385274/202919899-b203b75f-ef3c-4e21-bb0b-b9bf277942fe.png)
+
+
+
 
 ## Sorting the Elements in the Series
 <br> Write a Java program that sorts the elements of the array from smallest to largest. Get the size of the array and the elements of the array from the user.
 <br>
 ![image](https://user-images.githubusercontent.com/116385274/202919678-f50263f0-1f17-4185-b9a3-0f6520b158f9.png)
 <br>
-![image](https://user-images.githubusercontent.com/116385274/202919680-28a283f4-1d5a-4b02-8d04-bcbc7a1f9dbc.png)
+![image](https://user-images.githubusercontent.com/116385274/202919913-4b8ae42d-1553-495e-9f39-ec99152346b0.png)
 
 
 
